@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>tea_3.jpg</file>
+        <file>tea-icon.jpg</file>
+        <file>tea_2.jpg</file>
+        <file>tea_1.jpg</file>
+        <file>soda-icon.jpg</file>
+        <file>soda_6.jpg</file>
+        <file>soda_5.jpg</file>
+        <file>soda_4.jpg</file>
+        <file>soda_3.jpg</file>
+        <file>soda_2.jpg</file>
+        <file>soda_1.jpg</file>
+        <file>water-icon.jpg</file>
+        <file>coffee-icon.jpg</file>
+        <file>coffee_4.jpg</file>
+        <file>coffee_3.jpg</file>
+        <file>coffee_2.jpg</file>
+        <file>coffee_1.jpg</file>
+        <file>beer-icon.jpg</file>
+        <file>beer_9.jpg</file>
+        <file>beer_8.jpg</file>
+        <file>beer_7.jpg</file>
+        <file>beer_6.jpg</file>
+        <file>beer_5.jpg</file>
+        <file>beer_4.jpg</file>
+        <file>beer_3.jpg</file>
+        <file>beer_2.jpg</file>
+        <file>beer_1.jpg</file>
+    </qresource>
+</RCC>
